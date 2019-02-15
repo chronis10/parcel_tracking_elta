@@ -1,5 +1,5 @@
 # Description
-A simple Python 3 script with capability to track the current location of your parcels. 
+Python 3 script with capability to track the current location of your parcels. 
 That script uses ELTA website, the Greek postal service and the responses is on Greek. 
 But is a good template for new projects with http requests, json responses and csv reading functions.
 
